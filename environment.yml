@@ -1,0 +1,11 @@
+name: video2sheet
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.13
+  - numpy
+  - opencv
+  - reportlab
+  - pillow
+prefix: /home/yuc/miniconda3/envs/video2sheet
